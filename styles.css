@@ -1,4 +1,14 @@
-H1 {
-  color: white;
+* {
   background-color: black;
+}
+  
+
+.header {
+  color: white;
+  text-align: center;
+}
+
+.resume {
+  color: white;
+  text-align: center; 
 }
