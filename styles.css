@@ -1,3 +1,8 @@
+* {
+  width: 70%vw;
+  height: 70%vh;
+}
+
 .header {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
