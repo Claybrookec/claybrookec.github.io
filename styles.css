@@ -1,14 +1,13 @@
-* {
-  background-color: black;
-}
-  
-
 .header {
   color: white;
+  background-color: black;
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .resume {
   color: white;
-  text-align: center; 
+  background-color: black;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace; 
 }
