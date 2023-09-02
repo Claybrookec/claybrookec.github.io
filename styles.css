@@ -1,11 +1,13 @@
 .header {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
-  border: solid black 3px;
 }
 
 .resume {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
-  border: solid black 3px; 
+}
+
+h1{
+  font-family: 'Rubik Iso';
 }
